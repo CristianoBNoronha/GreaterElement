@@ -1,4 +1,4 @@
-# MaiorElementoPython
+# GreaterElement
 Exercise following Python course specifications, to calculate greater element.
 
 <a>
